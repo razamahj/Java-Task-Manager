@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Deadline
+comment0.text=\r\n\ This\ class\ models\ a\ deadline\ which\ represents\ a\ date.\r\n\ .\r\n\ @author\ Dr\ A\ J\ Beaumont\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Deadline()
+comment1.text=\r\n\ Construct\ a\ new\ deadline.\ \ \r\n\ By\ default,\ deadlines\ are\ one\ week\ ahead\ of\ the\ time\ now.\r\n
+comment2.params=
+comment2.target=long\ now()
+comment2.text=\r\n\ @return\ the\ time\ now\ as\ a\ long\r\n
+comment3.params=
+comment3.target=java.util.Date\ getDeadlineDate()
+comment3.text=\r\n\ Get\ the\ date\ of\ this\ deadline\ as\ a\ Date\ object.\r\n\ @return\ the\ date\ of\ this\ deadline\ as\ a\ Date\ object.\r\n
+comment4.params=numDays
+comment4.target=void\ setNewDeadline(int)
+comment4.text=\r\n\ Change\ the\ date\ of\ this\ deadline\ by\ a\ specified\ number\ of\ days.\r\n\ @param\ numDays\ the\ number\ of\ days\ to\ add\ to\ the\ deadline\ date\ (may\ be\ negative).\r\n
+comment5.params=
+comment5.target=boolean\ hasPassed()
+comment5.text=\r\n\ Find\ out\ if\ this\ deadline\ has\ passed.\r\n\ @return\ true\ when\ the\ time\ now\ is\ later\ than\ the\ deadline.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Return\ this\ deadline\ formatted\ as\ text\ to\ be\ printed.\r\n\ @return\ a\ string\ representation\ of\ this\ deadline.\r\n
+comment7.params=o
+comment7.target=boolean\ equals(java.lang.Object)
+numComments=8

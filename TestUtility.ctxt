@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestUtility
+comment0.text=\r\n\ DO\ NOT\ EDIT\ THIS\ CLASS.\r\n\ \r\n\ @author\ Dr\ A\ J\ Beaumont\ \r\n\ @version\ November\ 2015\r\n
+comment1.params=className\ name\ type
+comment1.target=void\ checkField(java.lang.String,\ java.lang.String,\ java.lang.Class)
+comment2.params=className\ paramList
+comment2.target=void\ checkConstructor(java.lang.String,\ java.lang.Class[])
+comment3.params=className\ methodName\ argTypes\ returnType
+comment3.target=void\ checkMethod(java.lang.String,\ java.lang.String,\ java.lang.Class[],\ java.lang.Class)
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TaskSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TaskSystem\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TaskSystem()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TaskSystem\r\n
+comment2.params=filename
+comment2.target=TaskSystem(java.lang.String)
+comment3.params=
+comment3.target=void\ start()
+comment4.params=
+comment4.target=void\ printWelcome()
+numComments=5
